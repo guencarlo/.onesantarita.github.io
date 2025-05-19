@@ -1,1 +1,1 @@
-# .onesantarita.github.io
+# onesantarita.github.io
